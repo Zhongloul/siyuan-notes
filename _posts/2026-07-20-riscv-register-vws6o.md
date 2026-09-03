@@ -10,4 +10,4 @@ published: true
 
 # RISC-V寄存器
 
-![image](https://127.0.0.1:59056/assets/image-20260720141439-hvllxye.png)
+![image](/assets/images/image-20260720141439-hvllxye.png)
