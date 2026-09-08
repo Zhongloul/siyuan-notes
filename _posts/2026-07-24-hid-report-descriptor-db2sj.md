@@ -14,7 +14,7 @@ published: true
 
 文章标签：[#HID报表描述符](https://so.csdn.net/so/search/s.do?q=HID%E6%8A%A5%E8%A1%A8%E6%8F%8F%E8%BF%B0%E7%AC%A6&t=all&o=vip&s=&l=&f=&viparticle=&from_tracking_code=tag_word&from_code=app_blog_art)
 
-![](https://i-operation.csdnimg.cn/images/a7311a21245d4888a669ca3155f1f4e5.png) 本文围绕USB-HID报表描述符展开，介绍其用途，它能识别多种设备，定义数据格式和使用方法。阐述报表描述符由项目组成，项目分短、长项目及Main、Global和Local三大类，还详细解析了各项目如Usage Page、Report ID等的功能和作用。
+ 本文围绕USB-HID报表描述符展开，介绍其用途，它能识别多种设备，定义数据格式和使用方法。阐述报表描述符由项目组成，项目分短、长项目及Main、Global和Local三大类，还详细解析了各项目如Usage Page、Report ID等的功能和作用。
 
 - **说一下为什么写这篇文章，主要是最近在做关于USB-HID设备的描述符，看到关于HID报表描述符的解析有点少，自己看了下，后续还会发布还有关于USB的各种解析，有兴趣可以看看，可以让你更加明白USB工作机制。**
 - **传送门：**   **[HID键盘描述符范例](https://britripe.blog.csdn.net/article/details/111681135)**
