@@ -1,0 +1,15 @@
+# 站点信息
+title: 我的笔记
+tagline: SiYuan Notes
+lang: zh-CN
+timezone: Asia/Shanghai
+
+# 项目仓库地址（不是 zhognloul.github.io 这种用户主页，所以必须带 baseurl）
+url: "https://zhongloul.github.io"
+baseurl: "/siyuan-notes"
+
+# 换成带左侧导航栏的 Chirpy 主题
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+github_username: Zhongloul
+theme_mode: light
