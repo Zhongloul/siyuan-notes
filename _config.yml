@@ -4,11 +4,40 @@ tagline: SiYuan Notes
 lang: zh-CN
 timezone: Asia/Shanghai
 
-# 项目仓库地址（不是 zhognloul.github.io 这种用户主页，所以必须带 baseurl）
 url: "https://zhongloul.github.io"
 baseurl: "/siyuan-notes"
 
 theme: jekyll-theme-chirpy
 
-github_username: Zhongloul
+github:
+  username: Zhongloul
+
 theme_mode: light
+
+# 首页文章列表分页
+paginate: 10
+
+# 侧边栏 Tab 集合（标签/分类/归档必须定义这里才显示）
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
+
+toc: true
