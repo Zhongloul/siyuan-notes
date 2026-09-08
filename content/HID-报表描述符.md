@@ -1,7 +1,7 @@
 ---
 title: HID报表描述符
 date: '2026-07-24 14:50:27'
-updated: '2026-09-03 13:58:27'
+updated: '2026-09-08 17:11:08'
 permalink: /post/hid-report-descriptor-db2sj.html
 enableToc: true
 enableBackLinks: true
