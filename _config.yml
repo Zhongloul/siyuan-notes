@@ -8,8 +8,7 @@ timezone: Asia/Shanghai
 url: "https://zhongloul.github.io"
 baseurl: "/siyuan-notes"
 
-# 换成带左侧导航栏的 Chirpy 主题
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
 
 github_username: Zhongloul
 theme_mode: light
