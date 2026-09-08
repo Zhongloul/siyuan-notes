@@ -5,6 +5,10 @@ permalink: /post/hid-report-descriptor-db2sj.html
 layout: post
 published: true
 toc: true
+categories:
+  - CIS
+tags:
+  - 免驱
 ---
 
 
